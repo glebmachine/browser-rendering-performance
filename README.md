@@ -9,3 +9,7 @@
 ## Примеры из презентации
 - [Пример с смешанным чтением/записью](https://codepen.io/glebmachine/pen/xEvpap)
 - [Пример с раздельным чтением/записью](https://codepen.io/glebmachine/pen/QKemPo)
+
+
+## Выступление на тему производительности
+https://www.youtube.com/watch?v=ee_ciqvNRRw
