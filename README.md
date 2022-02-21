@@ -11,5 +11,6 @@
 - [Пример с раздельным чтением/записью](https://codepen.io/glebmachine/pen/QKemPo)
 
 
-## Выступление на тему производительности
-https://www.youtube.com/watch?v=ee_ciqvNRRw
+## Доклады по теме
+Доклад про производителньость: https://www.youtube.com/watch?v=ee_ciqvNRRw
+Доклад и расшифровка про Garbage Collector https://habr.com/ru/company/oleg-bunin/blog/433318/
